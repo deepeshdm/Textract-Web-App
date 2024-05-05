@@ -1,8 +1,6 @@
 
 ### 🗃 Extract Text from Images & PDFs using AWS Textract Service
 
-**🔥 Site :** https://share.streamlit.io/deepeshdm/pixelmix/main/App.py
-
 <div align="center">
   <img src="/assets/UI.png" width="90%"/>
 </div>
