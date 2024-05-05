@@ -2,7 +2,7 @@
 ### 🗃 Extract Text from Images & PDFs using AWS Textract Service
 
 <div align="center">
-  <img src="/assets/UI.png" width="90%"/>
+  <img src="/assets/UI.png" width="70%"/>
 </div>
 </br>
 
